@@ -1,5 +1,5 @@
 body {
-  background: rgb(226, 212, 235);
+  background: rgb(232, 176, 245);
 
 }
 h1{
@@ -7,7 +7,7 @@ h1{
 }
  .caixa1 {
    position: absolute;
-   background: rgb(221, 68, 126);
+   background: rgb(53, 242, 255);
    width: 200px;
    height: 200px;
    left: 50;
@@ -16,7 +16,7 @@ h1{
  }
  .caixa2 {
    position: absolute;
-   background: rgb(185, 69, 141);
+   background: rgb(53, 242, 255);
    width: 200px;
    height: 200px;
    left: 80;
