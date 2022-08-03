@@ -1,7 +1,25 @@
 body {
-  background: purpple
-}
-h1 {
-  text-align: center;
+  background: rgb(226, 212, 235);
 
 }
+h1{
+  text-align: center;
+}
+ .caixa1 {
+   position: absolute;
+   background: rgb(221, 68, 126);
+   width: 200px;
+   height: 200px;
+   left: 50;
+   right: 0%;
+   bottom:0;
+ }
+ .caixa2 {
+   position: absolute;
+   background: rgb(185, 69, 141);
+   width: 200px;
+   height: 200px;
+   left: 80;
+   right: 0;
+   top: 0%;
+ }
