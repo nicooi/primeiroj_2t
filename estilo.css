@@ -52,3 +52,29 @@ li a:hover {
   color: white;
   background: black;
 }
+#Husky {
+  width: 10%;
+}
+.caixaHusky {
+  position: absolute;
+    top: 45px;
+    background: rgb(165, 158, 231);
+    width: 90%;
+    height: 165px;
+    margin: 20px;
+    border-color: rgb(159, 150, 240);
+    border-width: 20px;
+    border-style: solid;
+    padding: 20px;
+    display: flex;
+    justify-content: left;
+}
+.caixaHusky2 {
+  position: absolute;
+  top: 105px;
+  right: 5%;
+  width: 300px;
+  height: 165px;
+  display: flex;
+  justify-content: end;
+}
